@@ -3,7 +3,7 @@
 #include "colors/erosion.h"
 
 /* appearance */
-static const char font[]            = "-*-lemon-medium-r-normal--10-*-*-*-*-*-*-*";
+static const char font[]            = "-*-terminus-medium-r-normal--12-*-*-*-*-*-*-*";
 static const char normbordercolor[] = base03;
 static const char normbgcolor[]     = base02;
 static const char normfgcolor[]     = base01;
