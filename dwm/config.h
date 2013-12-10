@@ -11,7 +11,7 @@ static const char selbordercolor[]  = base1;
 static const char selbgcolor[]      = base2;
 static const char selfgcolor[]      = base3;
 
-static const unsigned int borderpx  = 6;        /* border pixel of windows */
+static const unsigned int borderpx  = 3;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const unsigned int tileborder= 12;       /* snap pixel */
 static const Bool showbar           = True;     /* False means no bar */
