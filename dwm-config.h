@@ -1,6 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-#include "../colors/erosion.h"
+#include "../colors/solarized-light.h"
 
 /* appearance */
 static const char font[]            = "-*-terminus-medium-r-normal--12-*-*-*-*-*-*-*";
